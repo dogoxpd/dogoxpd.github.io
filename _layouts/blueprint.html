@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<!--Hero Banner-->
+<section class="intro_main">
+		<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.png" class="hero__background" draggable="false">
+	<div class="wrap">
+		<div class="main-text">
+			가상, <br>
+      거대로봇, <br>
+      거래소.</div>
+		<p style="margin-top: 16px;">설계도 모음입니다.</p>
+	</div>
+</section>
+
+<!--Grid Gallery-->
+<section class="content">
+	<div class="img-gallery">
+		{% for post in site.blueprint reversed %}
+		<div class="box">
+			<a class="post-item__link" href="{{ post.url }}">
+				<div class="post-item__image">
+					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+				</div>
+				<div class="post-item__content">
+					<div class="post-item__info">
+						<h2 class="post-item__title">{{ post.title }}</h2>
+						<p class="post-item__subtitle">{{ post.subtitle }}</p>
+					</div>
+				</div>
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+</<section>
+
+<!--paginator-->
+<div>
+  {% include paginator.html %}
+</div>
