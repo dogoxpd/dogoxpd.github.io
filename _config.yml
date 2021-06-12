@@ -6,9 +6,9 @@ locale                   : "ko-KR"
 title                    : "가상거대로봇거래소"
 title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mansiksohn"
-description              : "An amazing website."
-url                      : "http://127.0.0.1:4000/" # "https://mansiksohn.github.io"
+name                     : "ManSikSon"
+description              : "앞서가는 기술력과 노하우로 업계 선두를 달립니다."
+url                      : "https://dogoxpd.github.io/"
 baseurl                  : ""
 repository               : "mansiksohn/mansiksohn.github.io"
 teaser                   : "/assets/images/no-accident.png" # path of fallback teaser image
