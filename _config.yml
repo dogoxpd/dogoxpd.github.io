@@ -44,10 +44,10 @@ naver_site_verification  :
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : UA-31098664-1
+    anonymize_ip         : false
 
 # Site Author
 author:
