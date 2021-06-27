@@ -4,7 +4,7 @@ subtitle: 'Lift Support, Gas Strut, Soft Close Hinges, 150N/33lb Gas Spring, Lid
 description:
 featured_image: '/img/parts/Gas Spring.jpg'
 category: parts
-layout: simple
+layout: simple_post
 ---
 
 ***

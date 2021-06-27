@@ -4,7 +4,7 @@ subtitle: 'Stainless Steel 316 Cast Pipe Fitting, Cross, Class 150, 4" NPT Femal
 description:
 featured_image: '/img/parts/SUS Pipe Cross.jpg'
 category: parts
-layout: simple
+layout: simple_post
 ---
 
 ***

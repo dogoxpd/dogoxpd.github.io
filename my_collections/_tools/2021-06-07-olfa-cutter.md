@@ -4,7 +4,7 @@ subtitle: 'OLFA 1072198 LA-X 18mm Fiberglass Rubber Grip Heavy-Duty Utility Knif
 description:
 featured_image: '/img/tools/OLFA Cutter Knife.jpg'
 category: tools
-layout: simple
+layout: simple_post
 ---
 
 ***

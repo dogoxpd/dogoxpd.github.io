@@ -5,7 +5,7 @@ description:
 featured_image: '/img/blueprints/Criticism Origami.png'
 download: '/img/blueprints/Criticism Origami-print.jpg'
 category: blueprints
-layout: simple
+layout: simple_post
 ---
 
 ***

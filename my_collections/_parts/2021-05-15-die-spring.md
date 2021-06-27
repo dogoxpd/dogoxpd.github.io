@@ -4,7 +4,7 @@ subtitle: 'uxcell 16pcs 3D Printer Heated Bed Yellow Spring Kit Light Load Compr
 description:
 featured_image: '/img/parts/Die Spring.jpg'
 category: parts
-layout: simple
+layout: simple_post
 ---
 
 ***

@@ -4,7 +4,7 @@ subtitle: 'Utoolmart 1/4" Dia Round Tip Steel Straight Ejector Pin Punch 4 inch 
 description:
 featured_image: '/img/parts/Ejector Pin.jpg'
 category: parts
-layout: simple
+layout: simple_post
 ---
 
 ***

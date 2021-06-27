@@ -4,7 +4,7 @@ subtitle: 'CO-Z Large HSS Spiral Groove Step Drill Bit, 12 Sizes Titanium High S
 description:
 featured_image: '/img/tools/Step Drill Bit.jpg'
 category: tools
-layout: simple
+layout: simple_post
 ---
 
 ***

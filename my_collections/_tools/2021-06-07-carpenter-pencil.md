@@ -4,7 +4,7 @@ subtitle: 'DIXON Industrial Carpenter Pencils, Medium, Black and Silver'
 description:
 featured_image: '/img/tools/Carpenter Pencil.jpg'
 category: tools
-layout: simple
+layout: simple_post
 ---
 
 ***

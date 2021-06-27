@@ -4,7 +4,7 @@ subtitle: 'Bessey BESSTCHA20 Toggle Clamps, Grey/Red, 35 mm'
 description:
 featured_image: '/img/tools/BESSEY Toggle Clamp.jpg'
 category: tools
-layout: simple
+layout: simple_post
 ---
 
 ***
