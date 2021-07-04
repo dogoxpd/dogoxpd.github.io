@@ -3,7 +3,7 @@ title: "칭찬하는 종이접기"
 subtitle: '건넬것'
 description:
 featured_image: '/img/blueprints/Origami Praise.jpg'
-download: '/img/blueprints/Origami Prase-print.jpg'
+download: '/img/blueprints/Origami Praise-print.jpg'
 category: blueprints
 layout: simple_post
 ---
